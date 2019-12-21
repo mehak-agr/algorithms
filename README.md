@@ -1,4 +1,5 @@
 # Algorithms
+Given below are some of the many interesting problems out there on multiple competitive sites along with their algorithmic and code solutions.
 
 Question 1:\
 Given a 2D array A, each cell is 0 (representing sea) or 1 (representing land).\
@@ -16,3 +17,9 @@ Step 2: Iterate over the 2 * n edge squares. For each square \
   Case 3: Land square is not visited\
     Perform a breadth first search, marking each new square as visited.\
 Step 3: Subtract the sum of squares of A (Total number of land squares) and B (Total number of visited Land squares) to get the final answer.\
+
+Question 2:\
+Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.\
+
+Answer:\
+
