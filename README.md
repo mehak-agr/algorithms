@@ -1,2 +1,5 @@
 # Algorithms
-Given in this repository are some of the many comapnywise interesting problems out there on multiple competitive sites along with their algorithmic and code solutions.
+Practise repository for company-wise coding problems.
+
+# Companies Added
+- Goldman Sachs
