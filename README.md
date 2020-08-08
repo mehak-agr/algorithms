@@ -1,5 +1,5 @@
 # Algorithms
-Practise repository for company-wise coding problems.
+Practice repository for company-wise coding problems.
 
 # Companies Added
 - Goldman Sachs
